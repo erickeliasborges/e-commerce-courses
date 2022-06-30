@@ -11,4 +11,4 @@ Esse projeto foi criado no intuito de aprimorar as habilidades em HTML, CSS e Ja
 * Os principais frameworks utilizados foram o Bootstrap na versão 4.1.3, Material Design for Bootstrap na versão 4.1.0, jquery-validate na versão 1.19.4 e Animate On Scroll Library (AOS) na versão 2.3.1.
 
 ## :rocket: Rodando o projeto
-Para rodar o projeto não é necessário nenhum comando, somente baixar os fontes em sua máquina e aproveitar!
+Para rodar o projeto não é necessário nenhum comando, somente baixar os fontes em seu ambiente e aproveitar!
