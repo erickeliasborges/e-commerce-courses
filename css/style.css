@@ -1,0 +1,57 @@
+.bg-blue-light {
+    background-color: var(--blue-light);
+}
+
+.bg-image-footer {
+    background-image: url(https://www.compusurf.es/wp-content/uploads/2018/10/background-world-map-1.gif);
+    background-size: 500px;
+    background-position: right;
+    background-color: transparent;
+}
+
+.small-font-size {
+    font-size: 15px;
+}
+
+.stars i.fa.checked-star:before {
+    content: '\f005';
+    color: var(--yellow);
+}
+
+.stars i.fa.half-star:before {
+    content: '\f5c0';
+    color: var(--yellow);
+}
+
+.stars i.fa.unchecked-star:before {
+    content: '\f005';
+    color: var(--light-gray);
+}
+
+.display-none {
+    display: none;
+}
+
+.footer {
+    background: var(--black);
+    color: white;
+}
+
+.payment-image {
+    width: 40px;
+}
+
+.gray-scale-1 {
+    filter: grayscale(1);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    /* flex-direction: row-reverse; */
+    margin-left: -145px;
+}
+
+.dropdown>.dropdown-toggle:active {
+    /* remove evento do click */
+    pointer-events: none;
+}

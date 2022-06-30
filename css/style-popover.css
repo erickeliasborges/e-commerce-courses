@@ -1,0 +1,16 @@
+.popover {
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgray;
+    margin-left: 5px;
+    padding: 0px 0px 0px 0px;
+}
+
+.popover-body {
+    padding-top: 10px;
+}
+
+.popover-header {
+    padding: 16px 16px 16px 16px;
+}
